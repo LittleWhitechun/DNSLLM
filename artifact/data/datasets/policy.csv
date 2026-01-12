@@ -1,0 +1,3 @@
+policy_id,description
+1,Allow all traffic
+2,Block malicious domains
